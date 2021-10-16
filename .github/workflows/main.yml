@@ -1,0 +1,29 @@
+name: UPDATE README Blog Posts
+
+on:
+  push:
+  schedule:
+    - cron:  '0 16 * * *'
+
+jobs:
+  readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: sarisia/actions-readme-feed@v1
+        id: feed
+        with:
+          url: 'https://blog.xcj.im/atom.xml'
+          file: 'README.md'
+          format: '- [${title}](${url}) - ${year}-${02month}-${02day}'
+          start_flag: "<!-- blog start -->"
+          end_flag: "<!-- blog end -->"
+          timezone: 'Asia/Shanghai'
+          locale: 'zh-CN'
+      - if: ${{ steps.feed.outputs.changed == true }}
+        run: |
+          git config --global user.name "ixcj"
+          git config --global user.email "i@xcj.im"
+          git add .
+          git commit -m "docs: Update blog posts"
+          git push
