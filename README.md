@@ -4,5 +4,5 @@
 
 ### Latest Article
 <!-- blog start -->
-- [Hello World](https://blog.xcj.im/post/hello-world/) - 2021年-7月-1日
+- [Hello World](https://subtle-sawine-076f0f.netlify.app/post/hello-world/) - 2022年-12月-1日
 <!-- blog end -->
