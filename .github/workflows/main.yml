@@ -13,7 +13,7 @@ jobs:
       - uses: sarisia/actions-readme-feed@v1
         id: feed
         with:
-          url: 'https://ixcj.xlog.app/feed'
+          url: 'https://blog.xcj.im/feed'
           file: 'README.md'
           format: '- [${title}](${url}) - ${year}-${02month}-${02day}'
           start_flag: "<!-- blog start -->"
