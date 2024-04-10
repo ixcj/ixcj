@@ -4,5 +4,5 @@
 
 ### Latest Article
 <!-- blog start -->
-- [Hello Halo](https://blog.xcj.im/archives/hello-halo) - 2024年-4月-2日
+- [Hello World](https://blog.xcj.im/archives/hello-world) - 2024年-4月-10日
 <!-- blog end -->
