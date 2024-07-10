@@ -4,5 +4,5 @@
 
 ### Latest Article
 <!-- blog start -->
-- [Hello World](https://blog.xcj.im/archives/hello-world) - 2024年-4月-10日
+- [使用 Vue3 实现鼠标跟随效果](https://blog.xcj.im/archives/shi-yong-vue3-shi-xian-shu-biao-gen-sui-xiao-guo) - 2024年-7月-9日
 <!-- blog end -->
