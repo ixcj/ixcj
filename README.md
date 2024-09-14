@@ -4,5 +4,6 @@
 
 ### Latest Article
 <!-- blog start -->
+- [使用Vue3实现鼠标跟随效果](https://blog.xcj.pw/archives/shi-yong-vue3-shi-xian-shu-biao-gen-sui-xiao-guo) - 2024年-9月-14日
 - [宝塔面板Nginx启用Brotli和HTTP/3](https://blog.xcj.pw/archives/bao-ta-mian-ban-nginxqi-yong-brotlihe-http-3) - 2024年-9月-9日
 <!-- blog end -->
