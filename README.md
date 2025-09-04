@@ -4,6 +4,7 @@
 
 ### Latest Article
 <!-- blog start -->
+- [Vue3中的自定义ref](https://blog.xcj.pw/archives/vue3zhong-de-zi-ding-yi-ref) - 2025年-9月-3日
 - [无缝将图片资源转换为WebP格式](https://blog.xcj.pw/archives/wu-feng-jiang-tu-pian-zi-yuan-zhuan-huan-wei-webpge-shi) - 2024年-10月-11日
 - [Nginx使用map配置CORS实现多域名跨域](https://blog.xcj.pw/archives/nginxshi-yong-mappei-zhi-corsshi-xian-duo-yu-ming-kua-yu) - 2024年-9月-27日
 - [宝塔面板Nginx启用Brotli和HTTP/3](https://blog.xcj.pw/archives/bao-ta-mian-ban-nginxqi-yong-brotlihe-http-3) - 2024年-9月-20日
